@@ -1,14 +1,6 @@
 
 
-# Realtime Data Streaming | End-to-End Data Engineering Project
-
-## Table of Contents
-1. Introduction
-2. System Architecture
-3. What You'll Learn
-4. Technologies
-5. Getting Started
-6. Watch the Video Tutorial
+# Realtime Data Streaming 
 
 ## Introduction
 Welcome to our comprehensive guide on building an end-to-end data engineering pipeline. This project is designed to take you through all stages of data engineering, from ingestion and processing to storage. Utilizing a robust and modern tech stack, this tutorial is perfect for those looking to gain hands-on experience in the field of data engineering. We leverage technologies like Apache Airflow, Kafka, Zookeeper, Spark, and Cassandra, all containerized using Docker for simplified deployment and scalability.
